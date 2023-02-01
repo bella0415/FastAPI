@@ -6,7 +6,7 @@
 # GitHub For FastAPI ෆ
 
 <!--연락처, 혹은 소셜-->
-# Contact ෆ
+## Contact ෆ
 <a>Mail : </a><a href="mailto:yiseuljeong0415@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/GMail-EA4335?&style=flat-square&logo=GMail&logoColor=white"/></a>
 
 <a href="https://www.instagram.com/reallllldew/" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=Instagram&logoColor=white"/></a> <!--Notion--> <a href="https://www.notion.so/NOTES-85902f153f504b13a4efcfa2119cec8f" target="_blank"><img src= "https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white"/></a>
