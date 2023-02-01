@@ -19,12 +19,6 @@ def get_db() :
     finally :
         db.close() # db닫음
         
-@app.post("/post/" , )
-
-
-
-
-
-
-
-
+@app.get("/")
+def hello() :
+    return {"message" : "hello"}
